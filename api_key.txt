@@ -1,0 +1,4 @@
+API_KEY = 
+api_base = 
+api_type =
+api_version = 
